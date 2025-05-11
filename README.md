@@ -1,2 +1,2 @@
-Purdue's ME 697 Course project - replication of the Surrogate modeling for fluid flows based on physics-constrained deep learning without simulation data by Sun et al. : L. Sun, H. Gao, S. Pan et al., Surrogate modeling for fluid flows based on physics-constrained deep learning without simulation data, Computer Methods in
+Purdue's ME 697 Course project - JAX replication of the Surrogate modeling for fluid flows based on physics-constrained deep learning without simulation data by Sun et al. : L. Sun, H. Gao, S. Pan et al., Surrogate modeling for fluid flows based on physics-constrained deep learning without simulation data, Computer Methods in
 Applied Mechanics and Engineering (2019) 112732, https://doi.org/10.1016/j.cma.2019.112732.
